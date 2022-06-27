@@ -1,0 +1,55 @@
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\bin\Debug\BeamApplication.exe.config
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\bin\Debug\BeamApplication.exe
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\bin\Debug\BeamApplication.pdb
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.AssemblyReference.cache
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\BeamApplication.Properties.Resources.resources
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.GenerateResource.cache
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.CoreCompileInputs.cache
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\BeamApplication.exe
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\BeamApplication.pdb
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\JFC GITHUB\Tekla_Billboard_Aid\TeklaBillboardAid\bin\Debug\BeamApplication.exe.config
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\JFC GITHUB\Tekla_Billboard_Aid\TeklaBillboardAid\bin\Debug\BeamApplication.exe
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\JFC GITHUB\Tekla_Billboard_Aid\TeklaBillboardAid\bin\Debug\BeamApplication.pdb
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\JFC GITHUB\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\JFC GITHUB\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\JFC GITHUB\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\BeamApplication.Properties.Resources.resources
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\JFC GITHUB\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\JFC GITHUB\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\JFC GITHUB\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\BeamApplication.exe
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\JFC GITHUB\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\BeamApplication.pdb
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.Form1.resources
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\JFC GITHUB\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.Form1.resources
+C:\GitHub\Tekla_Billboard_Aid\TeklaBillboardAid\bin\Debug\BeamApplication.exe.config
+C:\GitHub\Tekla_Billboard_Aid\TeklaBillboardAid\bin\Debug\BeamApplication.exe
+C:\GitHub\Tekla_Billboard_Aid\TeklaBillboardAid\bin\Debug\BeamApplication.pdb
+C:\GitHub\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.AssemblyReference.cache
+C:\GitHub\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.Form1.resources
+C:\GitHub\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\BeamApplication.Properties.Resources.resources
+C:\GitHub\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.GenerateResource.cache
+C:\GitHub\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.CoreCompileInputs.cache
+C:\GitHub\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\BeamApplication.exe
+C:\GitHub\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Debug\BeamApplication.pdb
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\bitbucket\TeklaBillboardAid\bin\Debug\BeamApplication.exe.config
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\bitbucket\TeklaBillboardAid\bin\Debug\BeamApplication.exe
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\bitbucket\TeklaBillboardAid\bin\Debug\BeamApplication.pdb
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\bitbucket\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\bitbucket\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\bitbucket\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.Form1.resources
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\bitbucket\TeklaBillboardAid\obj\Debug\BeamApplication.Properties.Resources.resources
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\bitbucket\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\bitbucket\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\bitbucket\TeklaBillboardAid\obj\Debug\BeamApplication.exe
+C:\Users\abdul\Desktop\year 2 updated\year3\pep\internships\jfc\jfc work\bitbucket\TeklaBillboardAid\obj\Debug\BeamApplication.pdb
+C:\Users\kenli\Desktop\JFC\repo\bitbucket\tekla_billboard_aid\TeklaBillboardAid\bin\Debug\BeamApplication.exe.config
+C:\Users\kenli\Desktop\JFC\repo\bitbucket\tekla_billboard_aid\TeklaBillboardAid\bin\Debug\BeamApplication.exe
+C:\Users\kenli\Desktop\JFC\repo\bitbucket\tekla_billboard_aid\TeklaBillboardAid\bin\Debug\BeamApplication.pdb
+C:\Users\kenli\Desktop\JFC\repo\bitbucket\tekla_billboard_aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.AssemblyReference.cache
+C:\Users\kenli\Desktop\JFC\repo\bitbucket\tekla_billboard_aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenli\Desktop\JFC\repo\bitbucket\tekla_billboard_aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.Form1.resources
+C:\Users\kenli\Desktop\JFC\repo\bitbucket\tekla_billboard_aid\TeklaBillboardAid\obj\Debug\BeamApplication.Properties.Resources.resources
+C:\Users\kenli\Desktop\JFC\repo\bitbucket\tekla_billboard_aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.GenerateResource.cache
+C:\Users\kenli\Desktop\JFC\repo\bitbucket\tekla_billboard_aid\TeklaBillboardAid\obj\Debug\TeklaBillboardAid.csproj.CoreCompileInputs.cache
+C:\Users\kenli\Desktop\JFC\repo\bitbucket\tekla_billboard_aid\TeklaBillboardAid\obj\Debug\BeamApplication.exe
+C:\Users\kenli\Desktop\JFC\repo\bitbucket\tekla_billboard_aid\TeklaBillboardAid\obj\Debug\BeamApplication.pdb

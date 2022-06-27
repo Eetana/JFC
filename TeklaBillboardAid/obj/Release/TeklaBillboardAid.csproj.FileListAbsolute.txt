@@ -1,0 +1,11 @@
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\bin\Release\BeamApplication.exe.config
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\bin\Release\BeamApplication.exe
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\bin\Release\BeamApplication.pdb
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Release\TeklaBillboardAid.csproj.AssemblyReference.cache
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Release\TeklaBillboardAid.csproj.SuggestedBindingRedirects.cache
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Release\TeklaBillboardAid.Form1.resources
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Release\BeamApplication.Properties.Resources.resources
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Release\TeklaBillboardAid.csproj.GenerateResource.cache
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Release\TeklaBillboardAid.csproj.CoreCompileInputs.cache
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Release\BeamApplication.exe
+C:\Users\kenli\Desktop\JFC\repo\tekla_billboard_aid\Tekla_Billboard_Aid\TeklaBillboardAid\obj\Release\BeamApplication.pdb
